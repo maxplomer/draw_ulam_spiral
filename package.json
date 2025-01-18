@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "author": "Max Plomer <maxplomer.coding@gmail.com> (https://maxplomer.github.io/)",
   "dependencies": {
-    "canvas": "^3.0.1"
+    "canvas": "^3.0.1",
+    "terminal-image": "^3.1.1"
   }
 }
