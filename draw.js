@@ -19,7 +19,7 @@ const dx = 100, dy = 100
 let counter = 1, x = 0, y = 0, walk = 1, direction = 1
 
 while (true) {
-  if (counter >= 10000) break
+  if (counter >= 40000) break
 
   for (let step = 1; step <= walk; step++) {
     x += direction
