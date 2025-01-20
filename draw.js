@@ -1,6 +1,6 @@
 const { createCanvas, loadImage } = require('canvas')
 const terminalImagePromise = import('terminal-image')
-const canvas = createCanvas(200, 200)
+const canvas = createCanvas(100, 100)
 const ctx = canvas.getContext('2d')
 
 const isPrime = (x) => {
@@ -15,11 +15,11 @@ const isPrime = (x) => {
   }
 }
 
-const dx = 100, dy = 100
+const dx = 50, dy = 50
 let counter = 1, x = 0, y = 0, walk = 1, direction = 1
 
 while (true) {
-  if (counter >= 40000) break
+  if (counter >= 10000) break
 
   for (let step = 1; step <= walk; step++) {
     x += direction
