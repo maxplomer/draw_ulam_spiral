@@ -18,7 +18,7 @@ It will keep endlessly generating prime numbers, function isPrime() is meant to 
 
 ## Draw Ulam Spiral
 
-Will display Ulam Spiral in the terminal
+Will display famous math art Ulam Spiral in the terminal
 
 https://en.wikipedia.org/wiki/Ulam_spiral
 
@@ -31,3 +31,8 @@ Then run with
 ### `node draw_ulam_spiral.js`
 
 ![title](ulam_spiral.png)
+
+
+## What problem does your project address, and how does it solve it?
+
+Traditionally this work is done in Matlab other science/engineering software, but I choose to use JavaScript and create a simple terminal based app with Node.js (an open source runtime environment)
