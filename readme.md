@@ -5,7 +5,7 @@ First need to install packages used with
 ### `npm install`
 
 
-## Generate Prime
+## Generate Primes
 
 Will generate prime numbers
 
@@ -22,7 +22,11 @@ Will display Ulam Spiral in the terminal
 
 https://en.wikipedia.org/wiki/Ulam_spiral
 
-Run in iTerm with
+Run in iTerm to display picture in terminal
+
+https://iterm2.com/
+
+Then run with
 
 ### `node draw_ulam_spiral.js`
 
