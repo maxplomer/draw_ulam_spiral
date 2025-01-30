@@ -15,6 +15,7 @@ Run with
 
 It will keep endlessly generating prime numbers, function isPrime() is meant to be as simple as possible
 
+
 ## Draw Ulam Spiral
 
 Will display Ulam Spiral in the terminal
