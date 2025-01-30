@@ -1,4 +1,11 @@
-### Generate Prime
+## Initial Setup
+
+First need to install packages used with
+
+### `npm install`
+
+
+## Generate Prime
 
 Will generate prime numbers
 
@@ -8,7 +15,7 @@ Run with
 
 It will keep endlessly generating prime numbers, function isPrime() is meant to be as simple as possible
 
-### Draw Ulam Spiral
+## Draw Ulam Spiral
 
 Will display Ulam Spiral in the terminal
 
