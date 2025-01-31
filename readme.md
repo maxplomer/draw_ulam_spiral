@@ -47,6 +47,6 @@ None are directly used, but I consulted Grok chatbot in validating the code.  I 
 ![](grok_error_3.png)
 
 
-##Fun Pitch Line. Describe your project in one sentence. Make it bold, edgy, or funny!
+## Fun Pitch Line. Describe your project in one sentence. Make it bold, edgy, or funny!
 
 Beautiful math art using open source JavaScript tech.
